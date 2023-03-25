@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-03-22T09:14:09" hostname="WINNIETHEPOOH" time="0.056">
+  <properties/>
+  <testcase name="[1] 1, 花费0.05美元" classname="Test" time="0.049"/>
+  <testcase name="[2] 21, 花费1.10美元" classname="Test" time="0.001"/>
+  <testcase name="[3] 1801, 通话时间错误" classname="Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
